@@ -2,8 +2,8 @@
 // Configuration
 $db_host = 'localhost';
 $db_username = 'u161955963_world';
-$db_password = 'u161955963_world';
-$db_name = '5&+t@8brI';
+$db_password = '5&+t@8brI';
+$db_name = 'u161955963_world';
 
 // Connect to database
 $conn = new mysqli($db_host, $db_username, $db_password, $db_name);
