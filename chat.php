@@ -59,7 +59,7 @@ deleteOldMessages();
 
 <!-- JavaScript code -->
 <script>
-  const socket = new WebSocket('ws://localhost:8080');
+  const socket = new WebSocket('wss://yourdomain.com:8080');
 
   socket.onmessage = (event) => {
     const messageList = document.getElementById('message-list');
