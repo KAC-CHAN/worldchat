@@ -1,6 +1,6 @@
 <?php
 // Configuration
-$host = 'yourdomain.com';
+$host = 'world.smmcapacity.com';
 $port = 8080;
 
 // Create a WebSocket server
